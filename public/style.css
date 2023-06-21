@@ -1,0 +1,15 @@
+
+.navbar ul {
+  list-style: none;
+  background-color: #a5ffa5;
+  padding: 12px;
+}
+.navbar a {
+  padding-right: 21px;
+}
+.selected {
+  font-weight: bold;
+}
+.center {
+  text-align: center;
+}
